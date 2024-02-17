@@ -280,8 +280,9 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 231)
   jekyll-feed (~> 0.6)
+  jekyll-seo-tag
+  jekyll-theme-cayman
   kramdown-parser-gfm
-  minima (~> 2.0)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.0)
