@@ -17,7 +17,7 @@ title: Organic Matter Studio
 #email: greg.a.jesionowski@gmail.com
 domain: gottemgames.github.io
 description: This is the beginning of the site for Organic Matter Studio.
-baseurl: "/gottemgames.github.io/" # the subpath of your site, e.g. /blog
+#baseurl: "/gottemgames.github.io/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: n/a
 #github_username:  gjesionowski
